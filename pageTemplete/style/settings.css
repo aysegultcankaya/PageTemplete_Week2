@@ -1,0 +1,90 @@
+.container {
+  width: 100%;
+  display: flex;
+}
+.leftcol {
+  width: 30%;
+  background-color: #2f80ed;
+  height: 100vh;
+  display: grid;
+}
+.rightcol {
+  margin-left: 100px;
+  width: 70%;
+}
+.header {
+  color: white;
+  text-align: center;
+  width: 100%;
+  margin-top: 70px;
+  margin-bottom: 100px;
+  font-size: 30px;
+}
+.logo {
+  width: 35px;
+  height: 35px;
+  vertical-align: middle;
+}
+.icon {
+  height: 20px;
+  width: 20px;
+}
+.link {
+  padding: 10px;
+}
+a {
+  color: white;
+  font-size: 25px;
+  text-decoration: none;
+}
+.links {
+  margin-left: 50px;
+}
+
+.linkSet {
+  margin-bottom: 400px;
+}
+h2 {
+  color: #515151;
+}
+
+.list1 {
+  list-style-type: none;
+  font-size: 32px;
+  margin-left: -20px;
+  padding: 0;
+  display: table;
+}
+
+.listitem1 {
+  padding: 10px;
+  margin-top: 20px;
+
+  border: 1px solid;
+  width: 300px;
+  height: 60px;
+  border-radius: 2px;
+}
+.leftText {
+  float: left;
+  margin-top: 12px;
+  color: rgb(97, 95, 95);
+}
+.rightText {
+  float: right;
+  width: 40px;
+  height: 60px;
+}
+
+.listItem2 {
+  width: 315px;
+  height: 60px;
+  font-size: 20px;
+}
+li {
+  margin-top: 10px;
+}
+h2 {
+  font-size: xx-large;
+  color: rgb(39, 38, 38);
+}

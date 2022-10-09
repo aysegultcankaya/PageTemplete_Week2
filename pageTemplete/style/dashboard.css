@@ -1,0 +1,82 @@
+.container {
+  width: 100%;
+  display: flex;
+}
+.leftcol {
+  width: 30%;
+  background-color: #2f80ed;
+  height: 100vh;
+  display: grid;
+}
+.rightcol {
+  margin-left: 100px;
+  width: 70%;
+}
+.header {
+  color: white;
+  text-align: center;
+  width: 100%;
+  margin-top: 70px;
+  margin-bottom: 100px;
+  font-size: 30px;
+}
+.logo {
+  width: 35px;
+  height: 35px;
+  vertical-align: middle;
+}
+.icon {
+  height: 18px;
+  width: 18px;
+}
+.link {
+  padding: 10px;
+}
+a {
+  color: white;
+  font-size: 25px;
+  text-decoration: none;
+}
+.links {
+  margin-left: 50px;
+}
+.box {
+  width: 33%;
+  border: 2px solid #bdbdbd;
+  background-color: #333333;
+  margin: 10px;
+  border-radius: 20px;
+}
+.boxGrid {
+  display: flex;
+  width: 100%;
+}
+
+.textgrid {
+  text-align: center;
+  margin: 50px;
+  font-size: x-large;
+  color: white;
+}
+li {
+  border: 1px solid #bdbdbd;
+  list-style-type: none;
+  font-weight: bold;
+  height: 50px;
+  margin-left: -25px;
+  font-size: x-large;
+  color: #4f4f4f;
+  font-family: monospace;
+}
+.left {
+  float: left;
+}
+.right {
+  float: right;
+}
+h2 {
+  color: #333333;
+}
+.linkSet {
+  margin-bottom: 400px;
+}

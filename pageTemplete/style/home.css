@@ -1,0 +1,54 @@
+.container {
+  width: 100%;
+  display: flex;
+}
+.leftcol {
+  width: 30%;
+  background-color: #2f80ed;
+  height: 100vh;
+}
+.rightcol {
+  width: 70%;
+  display: flex;
+}
+.header {
+  color: white;
+  text-align: center;
+  width: 100%;
+  margin-bottom: 250px;
+  margin-top: 50px;
+}
+.logo {
+  width: 35px;
+  height: 35px;
+  vertical-align: top;
+}
+.buttonLog {
+  display: grid;
+  width: 200px;
+  height: 70px;
+  margin: 20px auto;
+}
+.buttons {
+  margin: auto;
+}
+button {
+  font-size: larger;
+  font-weight: 400;
+}
+.imgGrafik {
+  margin: auto;
+  height: 600px;
+}
+.paraf1 {
+  position: absolute;
+  left: 1000px;
+  top: 100px;
+  font-size: x-large;
+}
+.paraf2 {
+  position: absolute;
+  left: 500px;
+  top: 700px;
+  font-size: x-large;
+}
